@@ -1,0 +1,15 @@
+﻿{
+  "Name": "LaunchYoutube",
+  "Type": "Screen",
+  "Id": "kcKERWSNWUiWIEDS2XeJsQ",
+  "Reference": "D5m_9pOLeEWIHT4HVMSK5A/kcKERWSNWUiWIEDS2XeJsQ",
+  "ParentRef": "D5m_9pOLeEWIHT4HVMSK5A/OJfLoQEaGkuPxXAY4xRUgQ",
+  "Created": "2024-10-04T21:20:52.5127605Z",
+  "Updated": "2024-10-04T21:21:47.2454799Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

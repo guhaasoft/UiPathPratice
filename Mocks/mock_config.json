@@ -1,0 +1,8 @@
+{
+  "mockedWorkflows": [
+    {
+      "mockFilePath": "Mocks\\Framework\\CloseAllApplications_mock.xaml",
+      "sourceWorkflowPath": "Framework\\CloseAllApplications.xaml"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "Constant": true,
+    "Name": "constant1",
+    "TypeFullyQualifiedName": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": "\"2\"",
+    "IsLiteral": false
+  },
+  {
+    "Constant": true,
+    "Name": "constant2",
+    "TypeFullyQualifiedName": "System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": "5",
+    "IsLiteral": true
+  }
+]
